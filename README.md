@@ -51,7 +51,7 @@ cd FreshlyPlated
 
 ▶️ Run Android
 ./gradlew :androidApp:installDebug
-
+```
 
 ## 📚 Learning Objectives
 
@@ -62,7 +62,7 @@ cd FreshlyPlated
 ✅ Learn how to manage shared state and DI in KMP
 
 
-🤝 Contributing
+## 🤝 Contributing
 We welcome contributions from the community!
 
 🌟 Star the repo if it helps you!
@@ -76,11 +76,11 @@ We welcome contributions from the community!
 Coming soon: CONTRIBUTING.md and GitHub Discussions
 
 
-📸 Screenshots
+## 📸 Screenshots
 Coming soon after initial release!
 
 
-🙌 Special Thanks
+## 🙌 Special Thanks
 JetBrains – for Compose Multiplatform
 
 TheMealDB – for their awesome free API
@@ -91,5 +91,5 @@ Now in Android – for clean architectural inspiration
 FreshlyPlated is not just a sample app — it's a learning journey for anyone diving into the powerful world of Kotlin Multiplatform. Let's build across platforms, together.
 
 
-👨‍🍳 Maintained by
+## 👨‍🍳 Maintained by
 Hardik Kubavat | Android Engineer
