@@ -51,7 +51,7 @@ cd FreshlyPlated
 
 ▶️ Run Android
 ./gradlew :androidApp:installDebug
-
+```
 
 ## 📚 Learning Objectives
 
